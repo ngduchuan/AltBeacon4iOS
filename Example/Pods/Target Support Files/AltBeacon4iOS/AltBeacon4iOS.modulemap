@@ -1,0 +1,6 @@
+framework module AltBeacon4iOS {
+  umbrella header "AltBeacon4iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

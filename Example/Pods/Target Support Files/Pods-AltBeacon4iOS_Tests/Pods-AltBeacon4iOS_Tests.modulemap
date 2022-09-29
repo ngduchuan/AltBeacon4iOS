@@ -1,0 +1,6 @@
+framework module Pods_AltBeacon4iOS_Tests {
+  umbrella header "Pods-AltBeacon4iOS_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

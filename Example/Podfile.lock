@@ -1,0 +1,16 @@
+PODS:
+  - AltBeacon4iOS (1.0.0)
+
+DEPENDENCIES:
+  - AltBeacon4iOS (from `../`)
+
+EXTERNAL SOURCES:
+  AltBeacon4iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AltBeacon4iOS: 711853db373b8655827c39b18c30575dcfab0db6
+
+PODFILE CHECKSUM: 390526091261920ce5548b3ea7b8f18f69da5876
+
+COCOAPODS: 1.11.2
