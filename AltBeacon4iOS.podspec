@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
   This code detects AltBeacon, Eddystone-UID, Eddystone-URL, Eddystone-TLM and Eddystone-EID (without resolution)
                        DESC
 
-  s.homepage         = 'https://github.com/Nguyen Duc Huan/AltBeacon4iOS'
+  s.homepage         = 'https://github.com/ngduchuan/AltBeacon4iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Nguyen Duc Huan' => 'v.huannd9@vinhomes.vn' }
-  s.source           = { :git => 'https://github.com/Nguyen Duc Huan/AltBeacon4iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ngduchuan/AltBeacon4iOS', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
 
